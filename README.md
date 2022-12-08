@@ -14,15 +14,15 @@ KuGou Music Console 是一个 使用Python编写的 基于命令行的轻量级�
 KuGouMusicConsole 目前支持以下功能：
 
 * 从酷狗音乐平台数据库搜索歌曲
-* 获取歌曲的详细信息、下载地址及封面图片
-* 使用内置的命令行音乐播放器(支持暂停，调整音量, 显示歌词)播放歌曲
+* 获取歌曲的详细信息(歌手，专辑，歌曲大小，时长，比特率，哈希值，歌词，封面、歌曲下载地址)
+* 使用 内置的命令行音乐播放器(支持暂停，调整音量, 显示歌词，单曲循环) 播放歌曲
 * 动态歌词显示
 * 下载歌曲
 
-功能持续更新中, 目前功能还未完善.
+功能持续更新中 (本人学生，时间有限，更新较慢), 目前功能还未完善.
 
 ## 下载地址
-[下载最新的 KuGou Music Console 构建](https://github.com/xiaomu18/KuGouMusicConsole/releases)
+在这里 [下载最新的 KuGou Music Console 构建](https://github.com/xiaomu18/KuGouMusicConsole/releases)
 
 ## 系统要求
 
