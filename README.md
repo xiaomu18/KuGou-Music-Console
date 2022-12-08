@@ -1,7 +1,7 @@
 
-# KuGouMusicConsole
+# KuGou Music Console
 
-KuGouMusicConsole 是一个 使用Python编写的 基于命令行的轻量级酷狗音乐客户端
+KuGou Music Console 是一个 使用Python编写的 基于命令行的轻量级酷狗音乐客户端
 
 ## 特点&优点
 
