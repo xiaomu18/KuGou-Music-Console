@@ -1,15 +1,15 @@
 
-# KuGou Music Console
+# 🌈 KuGou Music Console
 
 **KuGou Music Console** 是一个 使用Python编写的 基于命令行的轻量级酷狗音乐客户端
 
-## 特点&优点
+## 🌷 特点&优点
 
 * **API 稳定:** 调用 Web 版 Kugou API，使用稳定。
 * **轻量级:** 运行时几乎不占 CPU 和内存。程序仅 10 MB (要不是该死的 python 打包我还能做的更小)
 * **基于命令行:** 开发人员专属 (我相信能上 Github 的人都是碰过命令行的)
 
-## 功能概述
+## 🍂 功能概述
 
 KuGouMusicConsole 目前支持以下功能：
 
@@ -21,25 +21,31 @@ KuGouMusicConsole 目前支持以下功能：
 
 功能持续更新中 (本人学生，时间有限，更新较慢), 目前功能还未完善.
 
-## 下载地址
+## 🌳 下载地址
 在这里 [下载最新的 KuGou Music Console 构建](https://github.com/xiaomu18/KuGouMusicConsole/releases)
 
-## 系统要求
+## 🍁系统要求
 
 ### Windows
 
 **(Windows NT) Windows 7 or later.** [ 已在 Windows 7, 8, 10, 11 上进行测试 ]
-* 你可以试试在 Windows NT (2000, 98, 95 上进行测试) 反正我没试过
+* 不适配 Windows NT (2000, 98, 95, ME, XP) < Windows 7 的系统
 
-由于使用 VS 2019 编译可能不适配旧版本。Windows 10适配。
+本程序使用 **Windows 10 64Bit 专业版 - Python3.8.10 64Bit** 环境构建  
+由于使用 **Pyinstaller > 3.2.1** 编译可能不适配旧系统。
 
 ### Linux & Mac
 
-暂不适配 ( 因动态歌词显示使用 Win32 API )
+暂不适配 ( 因动态歌词显示使用 Win32 API ) **后期尽量适配**
 
-## 说在后面的话
+## 🌹 说在后面的话
 
 ### 开发不易，感谢支持。求个 Star 🙏🙏🙏
+你们的支持，就是我开发的动力。
 
-真的不容易，开发中途源代码所在的磁盘被病毒格式化了，后来又重新写的。😥 唉~
+真的不容易，开发中途源代码所在的磁盘被病毒格式化了，后来又重新写的。😥 唉~  
+(本来是可以恢复的，但可恶的病毒给我把扇区都填充成 00 了) 😭😭😭
 
+### 关于不开源这件事
+不是不想开源，而是怕 API 被过度滥用导致封禁
+想要学习对原理有兴趣的同学可以加我 QQ，我会发源码的。
