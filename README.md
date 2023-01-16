@@ -2,7 +2,8 @@
 # 🌈 KuGou Music Console
 
 ### KMC (Kugou Music Console) 是一个 使用 Python3 编写的 基于命令行的轻量级酷狗音乐客户端
-最后更新时间: 2022/12/15  |  数据库 API 保证可用  |  持续更新中...
+[![Page Views Count](https://badges.toozhao.com/badges/01GPX3XTFGGV167JY4DS78CHWS/green.svg)](https://badges.toozhao.com/stats/01GPX3XTFGGV167JY4DS78CHWS "Get your own page views count badge on badges.toozhao.com")最后更新时间: 2022/12/15  |  数据库 API 保证可用  |  持续更新中...
+
 
 ## 🌷 特点&优点
 
